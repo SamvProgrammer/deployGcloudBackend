@@ -14,6 +14,6 @@ resources:
   disk_size_gb: 10
   
 beta_settings:
-    cloud_sql_instances: <rosy-griffin-253215:us-central1:pruebapost>
+    cloud_sql_instances: rosy-griffin-253215:us-central1:pruebapost
 
   
