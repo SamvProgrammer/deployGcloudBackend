@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>puntoventa</name>
-    <description>punto de venta de un establecimiento webservices</description>
+    <description>punto de venta de un establecimiento webservice para Gcloud</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
